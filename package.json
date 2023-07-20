@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing-exercise",
+  "version": "1.0.0",
+  "description": "Basic test exercises with Jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahammad-mostafa/unit-testing-exercise.git"
+  },
+  "author": "Mahammad Mostafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahammad-mostafa/unit-testing-exercise/issues"
+  },
+  "homepage": "https://github.com/mahammad-mostafa/unit-testing-exercise#readme"
+}
