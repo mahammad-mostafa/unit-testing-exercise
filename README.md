@@ -35,7 +35,9 @@ It also includes config linters for `JavaScript` in the `.github` directory.
 - Unit testing done with `Jest` framework
 
 📌 **Key Features:**
- 
+ - Function `stringLength.js` return a number for the input string length
+ - Any string length outside the range of (1 - 10) throws an error `Value out of range!`
+ - 3 Test cases are implemented in `stringLength.test.js` for checking valid & invalid input
 
 <p align="right"><a href="#title">back to top</a></p>
 
