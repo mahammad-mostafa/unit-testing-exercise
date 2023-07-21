@@ -35,9 +35,13 @@ It also includes config linters for `JavaScript` in the `.github` directory.
 - Unit testing done with `Jest` framework
 
 📌 **Key Features:**
- - Function `stringLength.js` return a number for the input string length
- - Any string length outside the range of (1 - 10) throws an error `Value out of range!`
- - 3 Test cases are implemented in `stringLength.test.js` for checking valid & invalid input
+- Each task has its own unit & tester file
+- All tasks have separate test suite with description text
+- Function `stringLength` returns a number for the input string length
+- Any string length outside the range of `(1 - 10)` throws an error `Value out of range!`
+- Three test cases are implemented in `stringLength.test.js` for checking valid & invalid input
+- Function `reverseString` return the input string with characters in reverse order
+- One test case was done for `reverseString` function in `reverseString.test.js`
 
 <p align="right"><a href="#title">back to top</a></p>
 
