@@ -45,7 +45,8 @@ It also includes config linters for `JavaScript` in the `.github` directory.
 - Object `calculator` contains four functions (`add` / `subtract` / `multiply` / `divide`)
 - Each function inside the `calculator` object has three test cases grouped together
 - Function `capitalize` takes a string input & returns it with first letter capitalized 
-- The test case for `capitalize` function was created first in `capitalize.test.js`
+- The test cases for `capitalize` function was created first in `capitalize.test.js`
+- Any number input for `capitalize` function thriws an error `Invalid string!`
 
 <p align="right"><a href="#title">back to top</a></p>
 
