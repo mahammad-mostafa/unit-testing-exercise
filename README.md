@@ -36,12 +36,14 @@ It also includes config linters for `JavaScript` in the `.github` directory.
 
 📌 **Key Features:**
 - Each task has its own unit & tester file
-- All tasks have separate test suite with description text
+- All tasks are in separate test group with description text
 - Function `stringLength` returns a number for the input string length
 - Any string length outside the range of `(1 - 10)` throws an error `Value out of range!`
 - Three test cases are implemented in `stringLength.test.js` for checking valid & invalid input
-- Function `reverseString` return the input string with characters in reverse order
+- Function `reverseString` returns the input string with characters in reverse order
 - One test case was done for `reverseString` function in `reverseString.test.js`
+- Object `calculator` contains four functions (`add` / `subtract` / `multiply` / `divide`)
+- Each function inside the `calculator` object has three test cases grouped together
 
 <p align="right"><a href="#title">back to top</a></p>
 
